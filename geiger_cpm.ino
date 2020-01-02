@@ -1,3 +1,7 @@
+# This file is a work in progress. WiFi connection used for timestamp and interrupt calculations
+# Code partially in place for uploading pulse counts to a website for graph display or other uses.
+# 
+# Concocted July 2019-January 2020 by Kelli McKowan www.cativerse.com
 
 #include <Time.h>
 #include <NTPClient.h>
